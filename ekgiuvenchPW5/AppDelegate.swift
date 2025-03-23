@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  ekgiuvenchPW5
-//
-//  Created by Emre Guvench on 11.01.2025.
-//
-
 import UIKit
 import CoreData
 

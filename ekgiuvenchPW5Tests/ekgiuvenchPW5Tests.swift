@@ -1,10 +1,3 @@
-//
-//  ekgiuvenchPW5Tests.swift
-//  ekgiuvenchPW5Tests
-//
-//  Created by Emre Guvench on 11.01.2025.
-//
-
 import Testing
 @testable import ekgiuvenchPW5
 

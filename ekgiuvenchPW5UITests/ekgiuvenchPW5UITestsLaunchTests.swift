@@ -1,10 +1,3 @@
-//
-//  ekgiuvenchPW5UITestsLaunchTests.swift
-//  ekgiuvenchPW5UITests
-//
-//  Created by Emre Guvench on 11.01.2025.
-//
-
 import XCTest
 
 final class ekgiuvenchPW5UITestsLaunchTests: XCTestCase {
